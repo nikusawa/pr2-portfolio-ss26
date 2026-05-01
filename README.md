@@ -1,1 +1,1 @@
-# prog2-sose26-portfolio
+# Programmieren 2 - SoSe2026 - Portfolio
